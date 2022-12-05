@@ -12,5 +12,5 @@
      Linkedin
     </a> 
   </li>
-  <li>Based on Caracas, Venezuela </li>
+  <li>Based in Caracas, Venezuela </li>
 </ul>
