@@ -3,10 +3,9 @@
 </div>
 <div>
 <h1> Hi, I'm Cesar 👋  </h1>
-  <blockquote><p>I'm Full-stack developer  </p></blockquote>
+  <blockquote><p>I'm Frontend Developer💻  </p></blockquote>
 </div>
 <ul>
-  <li>Frontend Developer💻</li>
   <li>Contact me: 
     <a href="https://www.linkedin.com/in/cesar-gorge-a53819236/="> 
      Linkedin
