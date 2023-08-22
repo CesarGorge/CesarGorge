@@ -6,7 +6,7 @@
   <blockquote><p>I'm Full-stack developer  </p></blockquote>
 </div>
 <ul>
-  <li>Open to work 💻</li>
+  <li>Frontend Developer💻</li>
   <li>Contact me: 
     <a href="https://www.linkedin.com/in/cesar-gorge-a53819236/="> 
      Linkedin
