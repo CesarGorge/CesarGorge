@@ -14,6 +14,6 @@ Backend Developer at **Coco Wallet (YC S19)**, a fintech for crypto↔fiat payme
 
 **Recent:** ⚾ [¡SE FUE!](https://hack.platan.us/26/arcade/se-fue), an arcade baseball game for Platanus Hack 26, built with Phaser 3 in under 50 KB with no external assets.
 
-Most of my work lives in private repos at Coco.
+Most of my work lives in private repos.
 
 📫 [LinkedIn](https://www.linkedin.com/in/cesargorge)
